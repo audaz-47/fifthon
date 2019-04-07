@@ -1,5 +1,7 @@
 socialnetworkenv/
+socialnetworkenv2/
 **/.ipynb_checkpoints/
 **/__pycache__/
 logs/
 *.log
+config/credentials.yaml
